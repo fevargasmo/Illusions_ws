@@ -24,12 +24,12 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|Distorsión del espacio|           |            |                                    |                             |
+|Distorsión profundidad||            |                                    |                             |
+|   Cubo  | FICTIONS|            |                                    |                             |
+|Movimiento discontinuo|MOVEMENT|            |                                    |                             |
+|Distorsión tamaño|           |            |                                    |                             |
+|Espiral circulos|           |            |                                    |                             |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
