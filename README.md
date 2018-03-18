@@ -15,7 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Fernando Vargas|    fevargasmo   |
+|Omar Roa|    oeroaq   |
 
 ## Discusión
 
